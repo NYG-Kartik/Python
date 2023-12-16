@@ -1,0 +1,35 @@
+# Kartik Vanjani
+# KARTIK.VANJANI21@myhunter.cuny.edu
+# 1/31/23
+# This program makes a colorful I
+import turtle
+kartik = turtle.Turtle()
+kartik.pensize(5)
+kartik.color("green")
+kartik.forward(150)
+kartik.color("blue")
+kartik.left(90)
+kartik.forward(50)
+kartik.left(90)
+kartik.forward(50)
+kartik.right(90)
+kartik.forward(50)
+kartik.right(90)
+kartik.forward(50)
+kartik.left(90)
+kartik.forward(50)
+kartik.color("cyan")
+kartik.left(90)
+kartik.forward(150)
+kartik.color("red")
+kartik.left(90)
+kartik.forward(50)
+kartik.left(90)
+kartik.forward(50)
+kartik.right(90)
+kartik.forward(50)
+kartik.right(90)
+kartik.forward(50)
+kartik.left(90)
+kartik.forward(50)
+
